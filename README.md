@@ -1,5 +1,4 @@
-
-Stuff this code can do:
+Stuff this code can do that I don't feel like typing about so here's some screenshots:
 
 ![image](https://github.com/user-attachments/assets/5daa2dc1-8205-416c-a11a-293fcc27dce1)
 ![image](https://github.com/user-attachments/assets/b88f0da5-2980-48ee-a5db-92ae2e9e1f5f)
